@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div style={{ padding: '20px' }}>
-      <h1>My Web Engineering Lab</h1>
+      <h1>Web Engineering Lab 4-5</h1>
       <nav>
         <button onClick={() => setTab(1)}>Q1: Counter</button>
         <button onClick={() => setTab(2)}>Q2: Todo</button>
